@@ -36,16 +36,20 @@
 
 ### Краткая информация о данных
 .....
+
 :arrow_up:[к оглавлению](https://github.com/oles1a/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
 .....
+
 :arrow_up:[к оглавлению](https://github.com/oles1a/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Результат
 .....
+
 :arrow_up:[к оглавлению](https://github.com/oles1a/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Выводы
 .....
+
 :arrow_up:[к оглавлению](https://github.com/oles1a/sf_data_science/tree/main/project_0/README.md#Оглавление)
