@@ -1,3 +1,6 @@
+"""Игра угадай число
+Компьютер сам загадывает и сам угадывает число
+"""
 import numpy as np
 
 def random_predict(number:int=1) -> int:
